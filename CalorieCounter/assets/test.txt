@@ -1,0 +1,6 @@
+apples,vegfruit,120,h
+meat,meat,80,j
+milk,dairy,200,j
+bread,grains,130,h
+poop,fat,1000,j
+loooooooooooooooooooooooooooooooooooooooooooooooooooool, denis, 0, a
